@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // The eslint options object to provide args to the eslint command.
+	"eslint.options": {
+        "plusplus": true,
+        "eqeq": true,
+        "strict": false,
+        "vars": false,
+        "globals": {
+            "defaaine": false
+        }
+    }
+}
